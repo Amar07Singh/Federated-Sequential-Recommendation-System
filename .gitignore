@@ -1,0 +1,4 @@
+data/**
+!data/**/*.txt
+__pycache__
+tmp

@@ -1,0 +1,6 @@
+numpy==1.26.4
+pandas==2.2.3
+pytz
+tqdm
+nvflare==2.5.0
+# torch==2.4.1 torchvision==0.19.1 torchaudio==2.4.1 --index-url https://download.pytorch.org/whl/cu124
